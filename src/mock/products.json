@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Morango",
+        "price": "20,00",
+        "image": "https://conteudo.imguol.com.br/c/entretenimento/78/2018/02/28/morango-1519823853148_v2_1920x1280.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Melão",
+        "price": "15,00",
+        "image": "https://hiperideal.vteximg.com.br/arquivos/ids/167740-1000-1000/79120.jpg?v=636615816400270000"
+    },
+    {
+        "id": 3,
+        "name": "Melancia",
+        "price": "10,00",
+        "image": "https://belezaesaude.com/i/730/1963/melanciaa.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Picles",
+        "price": "13,00",
+        "image": "https://emporiohemmer.com.br/arquivos/produtos/imagens_adicionais/picles-suave-conserva-380g-hemmer-1.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Uva",
+        "price": "5,00",
+        "image": "https://d26lpennugtm8s.cloudfront.net/stores/746/397/products/uva-benitaka-114121-69ce92a4de840db95615222221953660-1024-1024.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Laranja",
+        "price": "2,00",
+        "image": "https://conteudo.imguol.com.br/c/entretenimento/ac/2017/12/11/laranja-1513012240348_v2_1920x1280.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Jaca",
+        "price": "2,00",
+        "image": "https://s2.glbimg.com/s-tT78vLeVB601inT2KLaCY0ylI=/620x455/e.glbimg.com/og/ed/f/original/2020/01/28/gettyimages-980825530.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Manga",
+        "price": "3,00",
+        "image": "https://belezaesaude.com/i/600x315/o/saude/conteudo/beneficios-manga.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Mamão",
+        "price": "3,00",
+        "image": "https://static1.conquistesuavida.com.br/articles//4/86/84/@/26664-embora-existam-algumas-diferencas-tanto-article_block_media-2.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Limão",
+        "price": "3,00",
+        "image": "https://conteudo.imguol.com.br/c/entretenimento/9f/2020/04/03/limao-1585951383576_v2_1256x835.jpg"
+    }
+]
