@@ -7,24 +7,21 @@ import {addNewItem, removeItem} from '../store/ducks/cart';
 
 const mapDispatch = {addNewItem, removeItem};
 
-const ListItem = ({itemsCart, addNewItem, removeItem}) => {
-console.log(itemsCart)
-  return (
-    <SafeAreaView style={styles.container}>
-      <FlatList
-        data={itemsCart}
-        keyExtractor={item => `${item.id}-item`}
-        renderItem={({item}) => (
-          <Item
-            {...item}
-            add={() => addNewItem(item)}
-            remove={() => removeItem(item)}
-          />
-        )}
-      />
-    </SafeAreaView>
-  );
-};
+const ListItem = ({itemsCart, addNewItem, removeItem}) => (
+  <SafeAreaView style={styles.container}>
+    <FlatList
+      data={itemsCart}
+      keyExtractor={item => `${item.id}-item`}
+      renderItem={({item}) => (
+        <Item
+          {...item}
+          add={() => addNewItem(item)}
+          remove={() => removeItem(item)}
+        />
+      )}
+    />
+  </SafeAreaView>
+);
 
 const styles = StyleSheet.create({
   container: {
